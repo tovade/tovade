@@ -1,6 +1,10 @@
 # 👋 Tovade
 Hello, I'm **Tovade**.
 
+## 🤵 About me
+
+Hello, online you find me as 'Tovade' but my actual name is Noëll (pronounced in english). I play alot of games and i also code sometimes.
+
 ## 🖥️ Technologies & tools
 
 ![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
