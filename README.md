@@ -24,7 +24,7 @@ Hello, online you find me as 'Tovade' but my actual name is Noëll (pronounced i
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2023 - To: 27 April 2023
+From: 21 April 2023 - To: 28 April 2023
 
 JSON         14 mins         ███████████░░░░░░░░░░░░░░   43.57 %
 TypeScript   14 mins         ██████████▒░░░░░░░░░░░░░░   41.21 %
