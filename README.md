@@ -24,14 +24,14 @@ Hello, online you find me as 'Tovade' but my actual name is Noëll (pronounced i
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2023 - To: 28 April 2023
+From: 22 April 2023 - To: 29 April 2023
 
-JSON         14 mins         ███████████░░░░░░░░░░░░░░   43.57 %
-TypeScript   14 mins         ██████████▒░░░░░░░░░░░░░░   41.21 %
-Bash         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-TSConfig     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+TypeScript   1 hr 3 mins     █████████████████▒░░░░░░░   69.27 %
+JSON         22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
