@@ -24,7 +24,7 @@ Hello, online you find me as 'Tovade' but my actual name is Noëll (pronounced i
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2023 - To: 14 July 2023
+From: 08 July 2023 - To: 15 July 2023
 
 No activity tracked
 ```
