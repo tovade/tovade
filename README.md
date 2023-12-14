@@ -36,9 +36,13 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2023 - To: 11 December 2023
+From: 05 December 2023 - To: 12 December 2023
 
-No activity tracked
+TypeScript   9 mins          █████████████░░░░░░░░░░░░   51.84 %
+Markdown     7 mins          █████████▓░░░░░░░░░░░░░░░   38.54 %
+JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
