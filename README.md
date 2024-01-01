@@ -36,13 +36,13 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 29 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
-TypeScript   2 hrs 37 mins   █████████████████████▒░░░   85.04 %
-Rust         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Prisma       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TypeScript   2 hrs 37 mins   ███████████████████▒░░░░░   77.81 %
+Rust         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Svelte       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Prisma       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
