@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
 Svelte       1 hr 43 mins    ██████████████░░░░░░░░░░░   56.09 %
 TypeScript   55 mins         ███████▓░░░░░░░░░░░░░░░░░   30.43 %
