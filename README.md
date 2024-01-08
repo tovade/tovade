@@ -36,13 +36,13 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Svelte       1 hr 43 mins    ██████████████████▓░░░░░░   74.00 %
-TypeScript   31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Svelte       1 hr 27 mins    ██████████████████░░░░░░░   71.43 %
+TypeScript   31 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
