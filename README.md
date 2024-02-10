@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 07 February 2024
+From: 01 February 2024 - To: 08 February 2024
 
 TypeScript   1 hr 55 mins    ██████████████████████░░░   87.78 %
 Other        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
