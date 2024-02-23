@@ -36,13 +36,13 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 20 February 2024
+From: 14 February 2024 - To: 21 February 2024
 
-TypeScript   2 hrs 48 mins   ██████████████████████░░░   88.02 %
-Prisma       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+TypeScript   1 hr 14 mins    ████████████████████▓░░░░   82.20 %
+JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Text         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
