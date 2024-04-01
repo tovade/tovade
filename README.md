@@ -36,11 +36,9 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2024 - To: 29 March 2024
+From: 23 March 2024 - To: 30 March 2024
 
-Lua         0 secs          ██████████░░░░░░░░░░░░░░░   40.61 %
-GDScript3   0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.23 %
-Other       0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
