@@ -36,13 +36,9 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2024 - To: 11 July 2024
+From: 06 July 2024 - To: 13 July 2024
 
-Astro        17 mins         █████████████████▒░░░░░░░   69.92 %
-TypeScript   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Diff         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
