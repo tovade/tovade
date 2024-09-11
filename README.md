@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2024 - To: 08 September 2024
+From: 02 September 2024 - To: 09 September 2024
 
 Python       55 mins         ███████████████▓░░░░░░░░░   62.32 %
 HTML         33 mins         █████████▒░░░░░░░░░░░░░░░   37.30 %
