@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2024 - To: 07 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
 Python       1 hr 28 mins    ████████████████▒░░░░░░░░   65.34 %
 CSS          31 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
