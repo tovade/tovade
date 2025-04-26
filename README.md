@@ -36,9 +36,12 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2025 - To: 23 April 2025
+From: 17 April 2025 - To: 24 April 2025
 
-Python   36 mins         █████████████████████████   100.00 %
+Python   36 mins         ███████████▓░░░░░░░░░░░░░   47.29 %
+HTML     30 mins         ██████████░░░░░░░░░░░░░░░   40.17 %
+CSS      7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+WebVTT   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
