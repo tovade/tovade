@@ -36,12 +36,10 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 05 May 2025 - To: 12 May 2025
 
-Python   1 hr 37 mins    ███████████████░░░░░░░░░░   60.46 %
-HTML     57 mins         █████████░░░░░░░░░░░░░░░░   35.51 %
-CSS      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python   1 hr 37 mins    █████████████████████████   99.60 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
