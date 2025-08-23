@@ -36,13 +36,13 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2025 - To: 20 August 2025
+From: 14 August 2025 - To: 21 August 2025
 
-TypeScript   50 mins         ██████████▓░░░░░░░░░░░░░░   42.13 %
-JSON         40 mins         ████████▒░░░░░░░░░░░░░░░░   33.78 %
-Svelte       13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Rust         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+TypeScript   1 hr 32 mins    ████████████████░░░░░░░░░   64.39 %
+JSON         21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Svelte       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Rust         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
