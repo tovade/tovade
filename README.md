@@ -36,9 +36,13 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2025 - To: 02 September 2025
+From: 27 August 2025 - To: 03 September 2025
 
-No activity tracked
+Go     56 mins         ██████████████████▒░░░░░░   72.92 %
+HTML   16 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
+SCSS   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+YAML   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
