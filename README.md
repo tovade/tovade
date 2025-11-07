@@ -36,13 +36,13 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 04 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-HTML          1 hr 40 mins    ████████████▒░░░░░░░░░░░░   48.90 %
-TypeScript    1 hr 30 mins    ███████████░░░░░░░░░░░░░░   44.17 %
-Python        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Markdown      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Text          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+HTML          2 hrs 53 mins   ███████████████▓░░░░░░░░░   62.26 %
+TypeScript    1 hr 30 mins    ████████░░░░░░░░░░░░░░░░░   32.60 %
+Python        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Markdown      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Text          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
