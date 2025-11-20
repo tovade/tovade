@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/tovade?logo=github&style=for-the-ba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
 HTML         57 mins         █████████▒░░░░░░░░░░░░░░░   37.23 %
 Python       52 mins         ████████▒░░░░░░░░░░░░░░░░   33.99 %
