@@ -5,8 +5,6 @@ Hello, i'm a developer that often codes and games. I'm trying to learn new stuff
 
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [tovade.dev@gmail.com](mailto:tovade.dev@gmail.com)
-* 🚀  I'm currently working on [Fyreactyl](http://github.com/FyreSoftware/Fyreactyl-v2)
-* 🧠  I'm learning tRCP
 * ⚡  I'm in your basement
 
 <a href="https://www.github.com/tovade" target="_blank" rel="noreferrer"><img
