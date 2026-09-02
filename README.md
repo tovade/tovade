@@ -2,7 +2,7 @@ Hi 👋 My name is Tovade
 =======================
 
 Hello, i'm a developer that often codes and games. I'm trying to learn new stuff all the time too.
-
+* 🔥  Thank you, @ILove68 for your pull request
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [tovade.dev@gmail.com](mailto:tovade.dev@gmail.com)
 * ⚡  I'm in your basement
